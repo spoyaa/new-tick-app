@@ -19,8 +19,8 @@ ol, ul {
 }
 
 .square {
-  background: gray;
-  border: 2px solid red;
+  background: grey;
+  border: 2px solid darkblue;
   float: left;
   font-size: 32px;
   font-weight: bold;
